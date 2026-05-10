@@ -25,6 +25,7 @@ SoberFlare 是一个以地址身份为核心的 Web3 社交应用。我们希望
 - `Demo Video`：[观看演示视频](https://youtu.be/9GNV3bIeiME?si=F97K53UXkh1ETGlJ)
 - `Release Download`：[release 下载链接](https://github.com/accmianbei/SoberFlare/releases)
 - `Official Website`：[官网链接](https://soberflare.xyz/)
+- `Solana 测试网合约地址`：`AQrk4sBTDwvDGa8E2c55rcsK4sLzLxMw5tabSPtx483i`
 
 ## 文档
 

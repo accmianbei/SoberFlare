@@ -25,6 +25,7 @@ It intentionally does **not** include the full production implementation or the 
 - `Demo Video`: [Watch the demo](https://youtu.be/9GNV3bIeiME?si=F97K53UXkh1ETGlJ)
 - `Release Download`: [View releases](https://github.com/accmianbei/SoberFlare/releases)
 - `Official Website`: [Visit the website](https://soberflare.xyz/)
+- `Solana Devnet Contract`: `AQrk4sBTDwvDGa8E2c55rcsK4sLzLxMw5tabSPtx483i`
 
 ## Documents
 
